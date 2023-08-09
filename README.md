@@ -1,8 +1,8 @@
 [![LxHTT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LxHTT&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/LxHTT)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LxHTT&langs_count=6&hide_progress=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)](https://github.com/LxHTT)  
 
-Oh，欢迎来到[**LxHTT**](https://github.com/LxHTT)的GitHub主页！  
+欢迎来到[**LxHTT**](https://github.com/LxHTT)的GitHub主页！  
 
-本人是一个初三生，即将迎来中考（（  
+本人是一个高中生（
 
 平时最喜欢写Python，也写得最多。  
 ___  
