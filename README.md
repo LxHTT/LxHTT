@@ -6,7 +6,7 @@
 E-mail：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)
 
 擅长：C/C++，Python  
-尤其是PyQt（强迫症患者
+尤其是PyQt（强迫症患者  
 在学：Node.js、Rust、C#  
 
 项目:
