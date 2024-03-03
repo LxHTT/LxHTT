@@ -1,7 +1,7 @@
 本人一个高中生罢了（x  
 一个平时挺喜欢参加各种奇奇怪怪的 **科技类比赛** 但是有 **严重文科生倾向** 的高中生 (x)
 
-[MCSL开发组]((https://github.com/MCSLTeam) 创始人、总开发。
+[MCSL开发组](https://github.com/MCSLTeam) 创始人、总开发。
 
 E-mail：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)
 
