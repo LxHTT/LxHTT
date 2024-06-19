@@ -10,6 +10,9 @@ E-mail：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)
 
 项目:
 
-- [MCServerLauncher 2](https://mcsl.com.cn) （基于 PyQt5 的MC开服器）
-- [MCSL-Sync-Backend](https://github.com/MCSLTeam/MCSL-Sync-Backend) （MC服务器核心镜像同步后端，最近不做性能优化不罢休了）
+- [MCServerLauncher 2](https://mcsl.com.cn/mcsl2) （基于 PyQt5 的MC开服器）
+- [MCServerLauncher Future](https://github.com/MCSLTeam/MCServerLauncher-Future) （基于 C# + WPF + 进程分离 的MC开服器）
+- [MCSL-Sync-Backend](https://github.com/MCSLTeam/MCSL-Sync-Backend) （MC服务器核心镜像同步后端）
+- [MCSL-Sync-Backend](https://github.com/MCSLTeam/MCSL-Sync-Nodeside) （MC服务器核心镜像同步节点端）
+- [MCSL-Sync-Backend](https://github.com/MCSLTeam/MCSL-Sync-Frontend) （MC服务器核心镜像同步前端）
 - [MEFrp-Launcher-Qt](https://github.com/LxHTT/MEFrp-Launcher-Qt) （ME Frp 镜缘映射 官方图形化启动器）
