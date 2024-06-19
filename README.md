@@ -5,7 +5,7 @@
 
 E-mail：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)
 
-擅长：C/C++、Python、JavaScript、( HTML、CSS、Stylus )
+擅长：C/C++、Python、JavaScript、( HTML、CSS、Stylus )  
 在学：Node.js、Rust、C#、Golang
 
 项目:
