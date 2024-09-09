@@ -22,7 +22,7 @@ My Popular Projects:
 
 #### Systems
 
-![Static Badge](https://img.shields.io/badge/Windows%2011-%20?style=flat-square&logo=windows11&logoColor=white&color=0078D4)
+![Static Badge](https://img.shields.io/badge/Windows%2011-%20?style=flat-square&logo=windows&logoColor=white&color=0078D4)
 ![Static Badge](https://img.shields.io/badge/WSL-%20?style=flat-square&logo=linux&logoColor=white&color=yellow)
 
 #### Toolkits & IDEs
