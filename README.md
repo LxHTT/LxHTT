@@ -31,10 +31,11 @@ My Popular Projects:
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%20?style=flat-square&logo=dotenv&logoColor=white&color=purple)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=flat-square&logo=vsco&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/PyCharm-%20?style=flat-square&logo=pycharm&logoColor=white&color=green)
+![Static Badge](https://img.shields.io/badge/WebStorm-%20?style=flat-square&logo=webstorm&logoColor=white&color=blue)
 
 #### Programming Languages & Frameworks...
 
-![Static Badge](https://img.shields.io/badge/CSharp-%20?style=flat-square&logo=csharp&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/CSharp-%20?style=flat-square&logo=dotnet&logoColor=white&color=339933)
 ![Static Badge](https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=white&color=3178C6)
 ![Static Badge](https://img.shields.io/badge/HTML5-%20?style=flat-square&logo=html5&logoColor=white&color=E34F26)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%20?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
@@ -45,7 +46,9 @@ My Popular Projects:
 ![Static Badge](https://img.shields.io/badge/EJS-%20?style=flat-square&logo=ejs&logoColor=white&color=B4CA65)
 ![Static Badge](https://img.shields.io/badge/Bun-%20?style=flat-square&logo=bun&logoColor=white&color=000000)
 ![Static Badge](https://img.shields.io/badge/Hexo-%20?style=flat-square&logo=hexo&logoColor=white&color=3178C6)
-![Static Badge](https://img.shields.io/badge/VitePress-%20?style=flat-square&logo=VitePress&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/VitePress-%20?style=flat-square&logo=vitepress&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/Qt-%20?style=flat-square&logo=qt&logoColor=white&color=green)
+![Static Badge](https://img.shields.io/badge/Nuxt.js-%20?style=flat-square&logo=nuxtdotjs&logoColor=white&color=339933)
 
 ### Public Keys
 
