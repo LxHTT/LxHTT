@@ -32,6 +32,8 @@ My Popular Projects:
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=flat-square&logo=vsco&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/PyCharm-%20?style=flat-square&logo=pycharm&logoColor=white&color=green)
 ![Static Badge](https://img.shields.io/badge/WebStorm-%20?style=flat-square&logo=webstorm&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Rider-%20?style=flat-square&logo=rider&logoColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/DataGrip-%20?style=flat-square&logo=webstorm&logoColor=white&color=yellow)
 
 #### Programming Languages & Frameworks...
 
