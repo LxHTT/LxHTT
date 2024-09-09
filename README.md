@@ -29,7 +29,7 @@ My Popular Projects:
 #### Toolkits & IDEs
 
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%20?style=flat-square&logo=dotenv&logoColor=white&color=purple)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=flat-square&logo=vsco&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=flat-square&logo=vscodium&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/PyCharm-%20?style=flat-square&logo=pycharm&logoColor=white&color=green)
 ![Static Badge](https://img.shields.io/badge/WebStorm-%20?style=flat-square&logo=webstorm&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Rider-%20?style=flat-square&logo=rider&logoColor=white&color=orange)
