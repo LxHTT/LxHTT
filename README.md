@@ -27,6 +27,7 @@ My Popular Projects:
 
 #### Toolkits & IDEs
 
+![Static Badge](https://img.shields.io/badge/PyCharm-%20?style=flat-square&logo=pycharm&logoColor=white&color=green)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=flat-square&logo=visualstudiocode&logoColor=white&color=blue)
 
 #### Programming Languages & Fameworks...
