@@ -9,7 +9,7 @@ Email (Others)：[lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
 擅长：C/C++、Python、JavaScript、( HTML、CSS、Stylus )  
 在学：Node.js、Rust、C#、Golang
 
-My Popular Projects: 
+### My Popular Projects
 
 - [MCServerLauncher 2](https://mcsl.com.cn/mcsl2) （Minecraft Server Launcher based on PyQt5）
 - [MCServerLauncher Future](https://github.com/MCSLTeam/MCServerLauncher-Future) （A brand new server management tool）
@@ -44,6 +44,8 @@ My Popular Projects:
 ![Static Badge](https://img.shields.io/badge/TypeScript-%20?style=flat-square&logo=typescript&logoColor=white&color=3178C6)
 ![Static Badge](https://img.shields.io/badge/Vue3-%20?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
 ![Static Badge](https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=1572B6)
+![Static Badge](https://img.shields.io/badge/Stylus-%20?style=flat-square&logo=stylus&logoColor=white&color=yellow)
+![Static Badge](https://img.shields.io/badge/C++-%20?style=flat-square&logo=cplusplus&logoColor=white&color=pink)
 ![Static Badge](https://img.shields.io/badge/Node.js-%20?style=flat-square&logo=nodedotjs&logoColor=white&color=339933)
 ![Static Badge](https://img.shields.io/badge/EJS-%20?style=flat-square&logo=ejs&logoColor=white&color=B4CA65)
 ![Static Badge](https://img.shields.io/badge/Bun-%20?style=flat-square&logo=bun&logoColor=white&color=000000)
@@ -51,6 +53,8 @@ My Popular Projects:
 ![Static Badge](https://img.shields.io/badge/VitePress-%20?style=flat-square&logo=vitepress&logoColor=white&color=339933)
 ![Static Badge](https://img.shields.io/badge/Qt-%20?style=flat-square&logo=qt&logoColor=white&color=green)
 ![Static Badge](https://img.shields.io/badge/Nuxt.js-%20?style=flat-square&logo=nuxtdotjs&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/Rust-%20?style=flat-square&logo=rust&logoColor=white&color=brown)
+![Static Badge](https://img.shields.io/badge/Golang-%20?style=flat-square&logo=go&logoColor=white&color=blue)
 
 ### Public Keys
 
