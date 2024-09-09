@@ -22,7 +22,7 @@ Email (Others)：[lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
 #### Systems
 
 ![Static Badge](https://img.shields.io/badge/Windows%2011-%20?style=flat-square&logo=windows&logoColor=white&color=0078D4)
-![Static Badge](https://img.shields.io/badge/WSL-%20?style=flat-square&logo=linux&logoColor=white&color=yellow)
+![Static Badge](https://img.shields.io/badge/WSL%20Ubuntu%2022.04-%20?style=flat-square&logo=linux&logoColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/macOS%20BigSur-%20?style=flat-square&logo=apple&logoColor=white&color=black)
 
 #### Toolkits & IDEs
