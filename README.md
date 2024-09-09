@@ -31,7 +31,7 @@ My Popular Projects:
 
 #### Programming Languages & Fameworks...
 
-![Static Badge](https://img.shields.io/badge/C#-%20?style=flat-square&logo=cshqrp&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/C#-%20?style=flat-square&logo=csharp&logoColor=white&color=339933)
 ![Static Badge](https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=white&color=3178C6)
 ![Static Badge](https://img.shields.io/badge/HTML5-%20?style=flat-square&logo=html5&logoColor=white&color=E34F26)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%20?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
