@@ -3,7 +3,7 @@ I'm a student from China, currently in senior high school.
 
 Leader of [MCSLTeam](https://github.com/MCSLTeam) .
 
-Email (Work)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)
+Email (Work)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
 Email (Others)：[lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
 
 擅长：C/C++、Python、JavaScript、( HTML、CSS、Stylus )  
