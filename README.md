@@ -3,7 +3,9 @@
 Hi there, I'm LxHTT.  
 I'm a student from China, currently in senior high school.
 
-Leader of [MCSLTeam](https://github.com/MCSLTeam) .
+Leader of [MCSLTeam](https://github.com/MCSLTeam) .  
+Administrator of ME Frp.  
+Collaborator of [ZGIT Network](https://github.com/ZGIT-Network) .
 
 Email (Work)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
 Email (Others)：[lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
