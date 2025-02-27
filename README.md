@@ -7,7 +7,8 @@ Leader of [MCSLTeam](https://github.com/MCSLTeam) .
 Administrator of ME Frp.  
 Collaborator of [ZGIT Network](https://github.com/ZGIT-Network) .
 
-Email (Work)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
+Email (Work, for ME Frp)：[lxhtt@mefrp.com](mailto:lxhtt@mefrp.com)  
+Email (Work, for MCSLTeam)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
 Email (Others)：[lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
 
 ### My Popular Projects
@@ -17,7 +18,10 @@ Email (Others)：[lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
 - [MCSL-Sync-Frontend](https://github.com/MCSLTeam/MCSL-Sync-Frontend) （Frontend of Minecraft Server Core Sync Utility）
 - [MCSL-Sync-Backend](https://github.com/MCSLTeam/MCSL-Sync-Backend) （Backend for Minecraft Server Core Sync Utility）
 - [MCSL-Sync-NodeClient](https://github.com/MCSLTeam/MCSL-Sync-NodeClient) （Node for Minecraft Server Core Sync Utility）
-- [MEFrp-Launcher-Qt](https://github.com/LxHTT/MEFrp-Launcher-Qt) （ME Frp GUI Launcher based on PyQt5）
+- [MEFrp-Launcher-Qt](https://github.com/LxHTT/MEFrp-Launcher-Qt) （ME Frp 4.0 GUI Launcher based on PyQt5）
+- [ME-Frp-Frontend-Next](https://github.com/ME-Frp/ME-Frp-Frontend-Next) （ME Frp 5.0 frontend, powered by Vue 3, TypeScript and Naive UI）
+- [ME-Frp-Core-Next](https://github.com/ME-Frp/ME-Frp-Core-Next) （ME Frp 5.0 core, forked and modified from [fatedier/frp](https://github.com/fatedier/frp), based on Version 0.61.1）
+- [ME-Frp-Core-Legacy](https://github.com/ME-Frp/ME-Frp-Core-Legacy) （ME Frp 5.0 legacy core, forked and modified from [fatedier/frp](https://github.com/fatedier/frp), based on Version 0.51.3）
 
 ### Developing Environment
 
