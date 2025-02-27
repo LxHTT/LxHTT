@@ -4,16 +4,16 @@ Hi there, I'm LxHTT.
 I'm a student from China, currently in senior high school.
 
 Leader of [MCSLTeam](https://github.com/MCSLTeam) .  
-Administrator of ME Frp.  
+Current Leader of [ME Frp](https://github.com/ME-Frp).  
 Collaborator of [ZGIT Network](https://github.com/ZGIT-Network) .
 
-Email (Work, for ME Frp)：[lxhtt@mefrp.com](mailto:lxhtt@mefrp.com)  
-Email (Work, for MCSLTeam)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
-Email (Others)：[lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
+Email (for Work, for ME Frp)：[lxhtt@mefrp.com](mailto:lxhtt@mefrp.com)  
+Email (for Work, for MCSLTeam)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
+Email (for Daily usage)：[lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
 
 ### My Popular Projects
 
-- [MCServerLauncher 2](https://mcsl.com.cn/mcsl2) （Minecraft Server Launcher based on PyQt5）
+- [MCServerLauncher 2](https://github.com/MCSLTeam/MCSL2) （Minecraft Server Launcher based on PyQt5）
 - [MCServerLauncher Future](https://github.com/MCSLTeam/MCServerLauncher-Future) （A brand new server management tool）
 - [MCSL-Sync-Frontend](https://github.com/MCSLTeam/MCSL-Sync-Frontend) （Frontend of Minecraft Server Core Sync Utility）
 - [MCSL-Sync-Backend](https://github.com/MCSLTeam/MCSL-Sync-Backend) （Backend for Minecraft Server Core Sync Utility）
