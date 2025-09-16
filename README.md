@@ -1,17 +1,15 @@
 ### Intro
 
-Hi there, I'm LxHTT.  
-I'm a student from China, currently in senior high school.
+Hi there, I'm Dorian Zhuang.  
 
 Leader of [MCSLTeam](https://github.com/MCSLTeam) .  
 Current Leader of [ME Frp](https://github.com/ME-Frp).  
-Collaborator of [ZGIT Network](https://github.com/ZGIT-Network) .
 
-Email (for Work, for ME Frp)：[lxhtt@mefrp.com](mailto:lxhtt@mefrp.com)  
-Email (for Work, for MCSLTeam)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
-Email (for Daily usage)：[lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
+Email (for works about MagicEdge Netowork)：[lxhtt@menetx.com](mailto:lxhtt@menetx.com)  
+Email (for works about MCSLTeam)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
+Email (for Daily usage)：[im@lxhtt.cn](mailto:im@lxhtt.cn)
 
-### My Popular Projects
+### My Outstanding Projects
 
 - [MCServerLauncher 2](https://github.com/MCSLTeam/MCSL2) （Minecraft Server Launcher based on PyQt5）
 - [MCServerLauncher Future](https://github.com/MCSLTeam/MCServerLauncher-Future) （A brand new server management tool）
@@ -19,8 +17,9 @@ Email (for Daily usage)：[lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
 - [MCSL-Sync-Backend](https://github.com/MCSLTeam/MCSL-Sync-Backend) （Backend for Minecraft Server Core Sync Utility）
 - [MCSL-Sync-NodeClient](https://github.com/MCSLTeam/MCSL-Sync-NodeClient) （Node for Minecraft Server Core Sync Utility）
 - [MEFrp-Launcher-Qt](https://github.com/LxHTT/MEFrp-Launcher-Qt) （ME Frp 4.0 GUI Launcher based on PyQt5）
-- [ME-Frp-Frontend-Next](https://github.com/ME-Frp/ME-Frp-Frontend-Next) （ME Frp 5.0 frontend, powered by Vue 3, TypeScript and Naive UI）
-- [ME-Frp-Core-Next](https://github.com/ME-Frp/ME-Frp-Core-Next) （ME Frp 5.0 core, forked and modified from [fatedier/frp](https://github.com/fatedier/frp), based on Version 0.61.1）
+- [ME-Frp-Frontend~v5](https://github.com/ME-Frp/Frontend-v5) （ME Frp 5.0 frontend, powered by Vue 3, TypeScript and Naive UI）
+- [ME-Frp-Core-v5
+- ](https://github.com/ME-Frp/ME-Frp-Core-Next) （ME Frp 5.0 core, forked and modified from [fatedier/frp](https://github.com/fatedier/frp), based on Version 0.61.1）
 - [ME-Frp-Core-Legacy](https://github.com/ME-Frp/ME-Frp-Core-Legacy) （ME Frp 5.0 legacy core, forked and modified from [fatedier/frp](https://github.com/fatedier/frp), based on Version 0.51.3）
 
 ### Developing Environment
