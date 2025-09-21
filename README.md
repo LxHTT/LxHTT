@@ -5,7 +5,7 @@ Hi there, I'm Dorian Zhuang.
 Leader of [MCSLTeam](https://github.com/MCSLTeam) .  
 Current Leader of [ME Frp](https://github.com/ME-Frp).  
 
-Email (for works about MagicEdge Netowork)：[lxhtt@menetx.com](mailto:lxhtt@menetx.com)  
+Email (for works about MagicEdge Network)：[lxhtt@menetx.com](mailto:lxhtt@menetx.com)  
 Email (for works about MCSLTeam)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
 Email (for Daily usage)：[im@lxhtt.cn](mailto:im@lxhtt.cn)
 
