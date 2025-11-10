@@ -2,8 +2,9 @@
 
 Hi there, I'm Dorian Zhuang.  
 
-Leader of [MCSLTeam](https://github.com/MCSLTeam) .  
-Chief Full Stack Engineer of MagicEdge Global LTD.  
+Leader of [MCSLTeam](https://github.com/MCSLTeam), Fuyang Bobi Network Technology Co,. Ltd.  
+  
+Chief Full Stack Engineer of [MagicEdge Frp](https://github.com/ME-Frp), MagicEdge Global LTD.  
 
 Email (for works about MagicEdge Network)：[lxhtt@menetx.com](mailto:lxhtt@menetx.com)  
 Email (for works about MCSLTeam)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
