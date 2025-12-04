@@ -2,9 +2,7 @@
 
 Hi there, I'm Dorian Zhuang.  
 
-Leader of [MCSLTeam](https://github.com/MCSLTeam).  
-  
-Chief Full Stack Engineer of [MagicEdge Frp](https://github.com/ME-Frp).  
+Leader of [MCSLTeam](https://github.com/MCSLTeam) and [MagicEdge Network](https://github.com/MagicEdgeNet).  
 
 Email (for works about MagicEdge Network)：[lxhtt@menetx.com](mailto:lxhtt@menetx.com)  
 Email (for works about MCSLTeam)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
